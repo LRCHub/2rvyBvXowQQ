@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ディスコミュ星人",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2026-03-04T16:59:55.307552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ディスコミュ星人 (2022 ver.)",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/01_ディスコミュ星人_(2022_ver.)_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ディスコミュ星人 (2022 ver.)",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/02_ディスコミュ星人_(2022_ver.)_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ディスコミュ星人 (2022 ver.)",
+      "artist": "Nanawoakari",
+      "has_synced": true,
+      "path": "select/03_ディスコミュ星人_(2022_ver.)_Nanawoakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ディスコミュ星人",
+      "artist": "NANAOAKARI",
+      "has_synced": false,
+      "path": "select/04_ディスコミュ星人_NANAOAKARI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディスコミュ星人",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_ディスコミュ星人_ナナヲアカリ.txt"
+    }
+  ]
+}
